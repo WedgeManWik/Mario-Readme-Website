@@ -2,7 +2,7 @@
 
 Recreating Mario Bros Arcade using C++ and SDL2 library.
 
-![My Mario Game](https://github.com/WedgeManWik/MarioBaseProject/blob/main/MarioBaseProject/MarioBaseProject/Images/MarioImage.png?raw=true)
+![My Mario Game](https://github.com/WedgeManWik/Mario-Readme-Website/blob/main/Mario-Readme-Website/Mario-Readme-Website/MarioImage.png?raw=true)
 
 I didn't want to exactly re-create the original game, instead I felt like adding my own twists and turns would be more fun.
 
