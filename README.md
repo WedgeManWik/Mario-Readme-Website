@@ -1,6 +1,6 @@
 # Mario Bros Arcade - My take on it.
 
-Recreating Mario Bros Arcade using C++ and SDL2 library.
+Recreating Mario Bros Arcade using C++ and the SDL2 library in Visual Studio 2019.
 
 ![My Mario Game](https://github.com/WedgeManWik/Mario-Readme-Website/blob/master/MarioImage.png?raw=true)
 
